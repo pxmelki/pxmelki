@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #### *Skils* 
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascrip,oracle&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,mysql,javascript,git,premiere,photoshop,ai,&theme=light&flutter&perline=5)](https://skillicons.dev)
 
 
 #### ***Socials***
