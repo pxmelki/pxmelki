@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 #### *Skils* 
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,mysql,javascript,git,premiere,photoshop,ai,&theme=light&flutter&perline=5)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,mysql,javascript,git,premiere,photoshop,ai,&theme=light&flutter&perline=)](https://skillicons.dev)
 
 #### ***Socials***
 ![https://github.com/pxmelki](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://www.instagram.com/pxmelki/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/pxmelk](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.youtube.com/@pxmelki](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
