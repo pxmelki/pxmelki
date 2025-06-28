@@ -1,4 +1,4 @@
-## Hello World!!! I'm Melki 👋
+## Hello World!!! 👋
 ![melki](img/profile%20header.png)
 <!--
 **pxmelki/pxmelki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
