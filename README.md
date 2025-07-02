@@ -1,4 +1,9 @@
->
+## 👋 Hi, I'm Melki!
+
+🎓 Information Systems student.  
+💡 Passionate about data, Python & SQL.
+
+---
 
 **_Skils_**
 
