@@ -1,28 +1,11 @@
 <div align="center">
 
-<!--## Hello World!!! 👋-->
-<!--![melki](img/profile%20header.png)
-<!--
-**pxmelki/pxmelki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-#### **_Skils_**
+**_Skils_**
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,git,wordpress,premiere,photoshop,ai,&theme=dark&flutter&perline=4)](https://skillicons.dev)
 
 ![pxmelki's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxmelki&show_icons=true&hide=prs,issues,contribs&theme=blue_navy)
 
-[![melki top](https://github-readme-stats.vercel.app/api/top-langs/?username=pxmelki)](https://github.com/pxmelki/github-readme-stats)
+![melki on top](https://github-readme-stats.vercel.app/api/top-langs/?username=pxmelki&layout=compact&theme=blue_navy)
 
 </div>
