@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 ![pxmelki's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxmelki&show_icons=true&hide=prs,issues,contribs&theme=blue_navy)
 
+[![melki top](https://github-readme-stats.vercel.app/api/top-langs/?username=pxmelki)](https://github.com/pxmelki/github-readme-stats)
+
 </div>
