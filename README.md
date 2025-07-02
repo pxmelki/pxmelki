@@ -5,7 +5,7 @@
 
 ---
 
-**_Skils_**
+## 🛠️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,git,wordpress,premiere,photoshop,ai,&theme=dark&flutter&perline=4)](https://skillicons.dev)
 
