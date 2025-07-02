@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-/
+
 #### **_Skils_**
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,git,wordpress,premiere,photoshop,ai,&theme=dark&flutter&perline=4)](https://skillicons.dev)
