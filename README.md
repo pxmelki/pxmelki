@@ -1,7 +1,7 @@
 <div align="center">
 
 <!--## Hello World!!! 👋-->
-![melki](img/profile%20header.png)
+<!--![melki](img/profile%20header.png)
 <!--
 **pxmelki/pxmelki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### *Skils* 
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,mysql,javascript,git,premiere,photoshop,ai,&theme=light&flutter&perline=)](https://skillicons.dev)
+#### _Skils_
 
-#### ***Socials***
-![https://github.com/pxmelki](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://www.instagram.com/pxmelki/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/pxmelk](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.youtube.com/@pxmelki](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,git,premiere,photoshop,ai,&theme=light&flutter&perline=)](https://skillicons.dev)
 
 ![pxmelki's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxmelki&show_icons=true&theme=blue_navy)
 
