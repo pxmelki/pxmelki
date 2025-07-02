@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### _Skils_
+#### **_Skils_**
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,git,premiere,photoshop,ai,&theme=light&flutter&perline=)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,git,wordpress,premiere,photoshop,ai,&theme=light&flutter&perline=)](https://skillicons.dev)
 
 ![pxmelki's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxmelki&show_icons=true&theme=blue_navy)
 
