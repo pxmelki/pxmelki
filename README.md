@@ -1,13 +1,13 @@
 ## 👋 Hi, I'm Melki!
 
 🎓 Information Systems student.  
-💡 Passionate about data, Python & SQL.
+💡 Currently exploring skills in the field of full stack development.
 
 ---
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,git,wordpress,premiere,photoshop,ai,&theme=dark&flutter&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,postgresql,java,python,mysql,git,wordpress,premiere,photoshop,ai,&theme=dark&flutter&perline=4)](https://skillicons.dev)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxmelki&layout=compact&theme=blue_navy" alt="Top Languages" height="170"/>
