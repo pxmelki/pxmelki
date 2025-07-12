@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Melki!
+# 👋 Hi, I'm Melki!
 
 🎓 Information Systems student.  
 💡 Currently exploring skills in the field of full stack development.
