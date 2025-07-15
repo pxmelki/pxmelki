@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Melki!
 
-🎓 An Information Systems student.
-🚀 Passionate about the world of Web Development and crafting useful web
-<br>
+- 🎓 An Information Systems student.
+- 🚀 Passionate about the world of Web Development and crafting useful web
+
+---
 
 ## 💻 Skills
 
