@@ -10,7 +10,7 @@
 <tr>
   <td valign="top">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,postgresql,java,python,mysql,git,wordpress,premiere,photoshop,ai&theme=dark&perline=4" />
+      <img src="https://skillicons.dev/icons?i=javascript,python,java,mysql,nodejs,react,postgresql,git,wordpress,premiere,photoshop,ai&theme=dark&perline=4" />
     </a>
   </td>
   <td valign="top">
