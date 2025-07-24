@@ -5,7 +5,7 @@
 - 🎓 An Information Systems student.
 - 🚀 Passionate about the world of Web Development and crafting useful web
 
-## 💻 Skills
+<h2>💻 Skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,mysql,react,ps,ai,&theme=dark)](https://skillicons.dev)
 
