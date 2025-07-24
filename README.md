@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Melki!
+<div align="center">
+<h1> 👋 Hi, I'm Melki!</h1>
+</div>
+
+---
 
 - 🎓 An Information Systems student.
 - 🚀 Passionate about the world of Web Development and crafting useful web
@@ -7,18 +11,10 @@
 
 ## 💻 Skills
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-  <td valign="top">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=javascript,react,py,mysql,premiere,photoshop&theme=dark&perline=2" />
-    </a>
-  </td>
-  <td valign="top">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxmelki&layout=compact&theme=blue_navy" alt="Top Languages" height="170"/>
-  </td>
-</tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=js,py,mysql,react,ps,ai,&theme=dark)](https://skillicons.dev)
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=pxmelki&show_icons=true&hide=prs,issues,contribs&theme=blue_navy" alt="GitHub Stats" height="170"/>
 </p>
+
+---
