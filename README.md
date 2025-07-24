@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Melki!</h1>
 
-- 🎓 Information Systems Student at UKSW.
+- 🎓 Information Systems student at UKSW.
 - ⚡ Currently developing my skills in:
   - Web Development
   - Data Analytics
