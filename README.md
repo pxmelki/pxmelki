@@ -1,6 +1,4 @@
-<div align="center">
 <h1> 👋 Hi, I'm Melki!</h1>
-</div>
 
 - 🎓 An Information Systems student.
 - 🚀 Passionate about the world of Web Development and crafting useful web
