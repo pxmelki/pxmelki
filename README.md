@@ -2,8 +2,8 @@
 
 - 🎓 Information Systems student at UKSW.
 - ⚡ Currently developing my skills in:
-  - Web Development
-  - Data Analytics
+  - Web Development.
+  - Data Analytics.
 
 <h2>💻 Skills</h2>
 
